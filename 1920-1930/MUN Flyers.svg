@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32.906105mm"
+   height="30.115503mm"
+   viewBox="0 0 32.906105 30.115503"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="MUN Flyers.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="5.3094837"
+     inkscape:cx="56.973524"
+     inkscape:cy="50.569889"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-83.286121,-140.64301)">
+    <ellipse
+       style="fill:#c41e3a;fill-opacity:1;stroke:#c41e3a;stroke-width:0.564999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path1040"
+       cx="99.739174"
+       cy="155.70076"
+       rx="16.170553"
+       ry="14.775252" />
+    <path
+       style="fill:#ffffff;stroke-width:1"
+       d="m 92.449229,154.48433 0.06967,-8.92969 2.294102,-0.0761 c 2.015592,-0.0669 2.310199,-0.0187 2.426693,0.39687 0.07292,0.26016 0.587503,2.58638 1.143508,5.16937 0.556005,2.583 1.080496,4.69636 1.165534,4.69636 0.08504,0 0.600434,-2.11336 1.145324,-4.69636 0.5449,-2.58299 1.0512,-4.90921 1.12513,-5.16937 0.11807,-0.41548 0.41347,-0.46375 2.42853,-0.39687 l 2.2941,0.0761 0.0697,8.92969 0.0697,8.92968 h -1.59102 -1.59102 v -5.20347 c 0,-2.86191 -0.0569,-5.14657 -0.12645,-5.07702 -0.0695,0.0695 -0.55213,2.20275 -1.07241,4.74045 -0.52027,2.5377 -1.00717,4.82236 -1.082,5.07702 -0.10972,0.37344 -0.43877,0.46302 -1.700672,0.46302 -1.403978,0 -1.579257,-0.0611 -1.707096,-0.59531 -0.07836,-0.32742 -0.532781,-2.52583 -1.009833,-4.88535 -0.477051,-2.35952 -0.950991,-4.37366 -1.053199,-4.47587 -0.102208,-0.1022 -0.185833,2.0962 -0.185833,4.88535 v 5.07118 h -1.591019 -1.59102 z"
+       id="path998" />
+  </g>
+</svg>
